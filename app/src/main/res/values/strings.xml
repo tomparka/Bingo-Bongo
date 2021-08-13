@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bingo Bongo</string>
+    <string name="no_cards">There are currently no cards, add a card by clicking a button below</string>
+
+</resources>
